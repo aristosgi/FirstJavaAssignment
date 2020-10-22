@@ -196,7 +196,7 @@ public class main {
                                 }
                             }
                         }
-                        if (classLevel.equals("Προνήπιο")) {
+                        if (classLevel.equals("Προνήπιο ")) {
                             System.out.println(schoolYears[1].getDaskalos_pronipiou().getFullname());
                             for (int y = 0; y <= 99; y++) {
                                 if (schoolYears[1].getPronipio_Students_year()[y] != null) {
