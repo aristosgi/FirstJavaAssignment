@@ -16,7 +16,7 @@ public class Student {
 
     public String toString(){
 
-        return "Όνομα μαθητή: " + name + "\nid μαθητή: " + id +"\nΗμερομηνία γέννησης του μαθητή: " + birth_date;
+        return "Όνομα μαθητή: " + name + "\nid μαθητή: " + id +"\nΗμερομηνία γέννησης μαθητή: " + birth_date;
     }
 
     public String getId() {
