@@ -11,7 +11,7 @@ public class main {
         Student[] All_Students = new Student[100];
         SchoolYear[] schoolYears = new SchoolYear[100];
         Teacher[] All_Teachers= new Teacher[100];
-        All_Teachers[0] = new Teacher("a1","Γρηγορης Γρηγοριου","0303921142");
+        All_Teachers[0] = new Teacher("a1","Γρηγορης Γρηγορίου","0303921142");
         All_Teachers[1] = new Teacher("a2","Βασιλης Βασιλειου","0209882324");
         All_Teachers[2] = new Teacher("a3","Νικος Νικου","2508911290");
         All_Teachers[3] = new Teacher("a3","Γεωργιος Γεωργιου","0612889099");
